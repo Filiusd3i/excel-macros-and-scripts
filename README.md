@@ -19,7 +19,7 @@ Excel Macros and scripts for organizing data and information from a bank.
 
 ---
 
-### ach_batches_report.ts
+### ach batches.ts
 - **Purpose**: Automates reporting for ACH batches.
 - **Features**:
   - Organizes ACH batches by **date**, **vendor**, and **addenda** (e.g., Invoice # or description of the invoice).
