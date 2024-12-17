@@ -48,4 +48,4 @@ Excel Macros and scripts for automating financial workflows and data organizatio
   2. Open it in Excel.
   3. Update the **Allocation Database** with vendor information and percentages.
   4. On **Sheet 1**, list all banks, funds, and entities paying for the invoices.
-  5. Use the dropdown menus to pick allocations – the formulas will handle the math automatically.
+  5. Use the dropdown menus to pick allocations – the formulas will handle the math automatically on the invoices tab.
