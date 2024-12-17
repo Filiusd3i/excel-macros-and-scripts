@@ -1,6 +1,7 @@
 # excel-macros-and-scripts
 
-Excel Macros and scripts for organizing data and information from a bank.
+Excel Macros and scripts for organizing data and information from a bank. *Note: this is only for PNC Bank and it hasn't been tested for other banks yet. 
+These work best as csv files*
 
 ---
 
