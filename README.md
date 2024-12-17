@@ -33,7 +33,7 @@ Excel Macros and scripts for automating financial workflows and data organizatio
 ## Allocation Template
 
 ### allocation_template.xlsx
-- **Purpose**: Automates the allocation of payments across funds and entities.
+- **Purpose**: Automates the allocation of payments across funds and entities. *Useful if you're paying from multiple different bank accounts and entities and you have to allocate to multiple different funds*
 - **Features**:
   - Designed for firms seeking to automate payment allocations without manual calculations.
   - Uses formulas to automatically allocate numbers based on input percentages.
